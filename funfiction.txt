@@ -1,0 +1,3 @@
+[{"name":"Гарри Поттер в России", "author":"unknown", "count":"250", "year":"2010", "cover":"potter.jpg", "source":"Гарри Поттер"},
+{"name":"Властелин овец", "author":"unknown", "count":"250", "year":"2010", "cover":"vlastelin.jpg", "source":"Властелин колец"},
+{"name":"Крош краш", "author":"Розовый борщ", "count":"250", "year":"2010", "cover":"krosh.jpg", "source":"Смешарики"}]

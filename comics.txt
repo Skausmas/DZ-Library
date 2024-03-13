@@ -1,0 +1,3 @@
+[{"name":"Человек-паук", "author":"Стэн Ли", "count":"250", "year":"1996", "cover":"spiderman.jpg", "painter":"AST", "color":"black"},
+{"name":"Песочный человек", "author":"Нил Гейман", "count":"250", "year":"1996", "cover":"sandman.jpg", "painter":"AST","color":"black"},
+{"name":"Зов Ктулху", "author":"Г Ф Лавкрафт", "count":"286", "year":"2001", "cover":"lavcraft.jpg", "painter":"Го Танабэ","color":"black"}]
